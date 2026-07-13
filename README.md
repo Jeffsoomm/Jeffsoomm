@@ -2,13 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1E90FF&size=35&center=true&vCenter=true&width=1000&lin es=HELLO,+Meu+nome+é+Jefferson+Rodrigues;Tenho+29+anos;Sou+do+Brasil;Estudo+Ciência+de+Dados;Seja+Bem+Vindo!+:%29)](htt ps://git.io/typing-svg)
 
-
-
-## Hi there 👋
-
-<!--
-**Jeffsoomm/Jeffsoomm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
